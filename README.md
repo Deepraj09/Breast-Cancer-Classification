@@ -95,6 +95,11 @@ The project requires the following Python libraries, which can be installed usin
 
 The script will output the accuracy of the model on the training and test sets, along with the confusion matrix and a plot of feature importances. It will also display a comparison of actual vs. predicted outcomes for a subset of the test data.
 
+## Output
+
+![B1](https://github.com/user-attachments/assets/0eefd387-c01d-4dd8-9737-93f3ce50b522)
+![B2](https://github.com/user-attachments/assets/38d11d1c-044e-47da-b946-4cd32db0e835)
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
